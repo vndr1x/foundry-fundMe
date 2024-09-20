@@ -22,9 +22,6 @@ From the Cyfrin Solidity Course.
     - [Withdraw](#withdraw)
   - [Estimate gas](#estimate-gas)
 - [Formatting](#formatting)
-- [Additional Info:](#additional-info)
-  - [Let's talk about what "Official" means](#lets-talk-about-what-official-means)
-  - [Summary](#summary)
 - [Thank you!](#thank-you)
 
 
